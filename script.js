@@ -41,21 +41,19 @@ const planetData = [
     x: 12,
     info: [
       {
-        title: "Space Portfolio",
-        github: "https://github.com/prathamesh-portfolio/space-portfolio",
-        demo: "https://space-portfolio.demo.com",
+        title: "iOS App - Singular",
+        github: "https://github.com/Prathameshh12/CodeBrewers",
+        demo: "https://drive.google.com/file/d/1d0BK3cuB5GEeLcG8w2AI2DaGkm1h7zky/view",
       },
       {
-        title: "Waitlist App",
-        github: "https://github.com/prathamesh-portfolio/waitlist-app",
+        title: "iOS App - Colour Capture",
+        github: "https://github.com/Prathameshh12/ColourPhoto",
+        demo: "https://drive.google.com/file/d/1BryrOn350_DiE-hCiF7V_zimsKXzpRLq/view",
       },
       {
-        title: "Battleship Game",
-        github: "https://github.com/prathamesh-portfolio/battleship-game",
-        demo: "https://battleship-game.demo.com",
-      },
-      {
-        title: "More projects coming soon...",
+        title: "Portfolio Website",
+        github: "https://github.com/Prathameshh12/Prathamesh_Portfolio",
+        demo: "https://prathameshahire.netlify.app",
       },
     ],
   },
@@ -64,7 +62,7 @@ const planetData = [
     name: "Skills",
     texture: "assets/textures/mars1.jpg",
     x: 16,
-    info: "Skills: React, Next.js, SwiftUI, Python, Cybersecurity, UI/UX Design.",
+    info: "Skills: Java, Python, Swift / SwiftUI, React, Tailwind CSS, UI/UX Design, Pentesting, Wireshark / Metasploit / Nmap, Git & GitHub, AWS & Google Cloud, Docker, Linux",
   },
   {
     name: "Contact",
